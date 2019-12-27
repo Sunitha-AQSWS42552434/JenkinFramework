@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="testclasses.GmailTest2">
+        <methods>
+          <include name="testscript"/>
+        </methods>
+      </class> <!-- testclasses.GmailTest2 -->
+      <class name="testclasses.GmailTest1">
+        <methods>
+          <include name="openappln"/>
+          <include name="testscript"/>
+        </methods>
+      </class> <!-- testclasses.GmailTest1 -->
+      <class name="testclasses.GmailTest3">
+        <methods>
+          <include name="testscript"/>
+        </methods>
+      </class> <!-- testclasses.GmailTest3 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

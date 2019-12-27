@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="310574" started-at="2019-12-26T06:21:09Z" finished-at="2019-12-26T06:26:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="310574" started-at="2019-12-26T06:21:09Z" finished-at="2019-12-26T06:26:20Z">
+      <class name="testclasses.GmailTest1">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:testclasses.GmailTest1@2d6d8735]" name="openappln" is-config="true" duration-ms="51952" started-at="2019-12-26T11:51:09Z" finished-at="2019-12-26T11:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="testscript()[pri:0, instance:testclasses.GmailTest1@2d6d8735]" name="testscript" duration-ms="51059" started-at="2019-12-26T11:52:01Z" finished-at="2019-12-26T11:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscript -->
+        <test-method status="PASS" signature="closeappln()[pri:0, instance:testclasses.GmailTest1@2d6d8735]" name="closeappln" is-config="true" duration-ms="3776" started-at="2019-12-26T11:52:52Z" finished-at="2019-12-26T11:52:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeappln -->
+      </class> <!-- testclasses.GmailTest1 -->
+      <class name="testclasses.GmailTest2">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:testclasses.GmailTest2@ba4d54]" name="openappln" is-config="true" duration-ms="21031" started-at="2019-12-26T11:52:56Z" finished-at="2019-12-26T11:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="testscript()[pri:0, instance:testclasses.GmailTest2@ba4d54]" name="testscript" duration-ms="102525" started-at="2019-12-26T11:53:17Z" finished-at="2019-12-26T11:55:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscript -->
+        <test-method status="PASS" signature="closeappln()[pri:0, instance:testclasses.GmailTest2@ba4d54]" name="closeappln" is-config="true" duration-ms="4134" started-at="2019-12-26T11:55:00Z" finished-at="2019-12-26T11:55:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeappln -->
+      </class> <!-- testclasses.GmailTest2 -->
+      <class name="testclasses.GmailTest3">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:testclasses.GmailTest3@12bc6874]" name="openappln" is-config="true" duration-ms="19425" started-at="2019-12-26T11:55:04Z" finished-at="2019-12-26T11:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="testscript()[pri:0, instance:testclasses.GmailTest3@12bc6874]" name="testscript" duration-ms="51321" started-at="2019-12-26T11:55:23Z" finished-at="2019-12-26T11:56:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testscript -->
+        <test-method status="PASS" signature="closeappln()[pri:0, instance:testclasses.GmailTest3@12bc6874]" name="closeappln" is-config="true" duration-ms="5320" started-at="2019-12-26T11:56:14Z" finished-at="2019-12-26T11:56:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeappln -->
+      </class> <!-- testclasses.GmailTest3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
